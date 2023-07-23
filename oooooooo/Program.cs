@@ -147,5 +147,4 @@ void Task37()
         PrintArray(post_array);
     }
 }
-
 Task37();
